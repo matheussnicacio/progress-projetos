@@ -1,0 +1,156 @@
+
+                Mon Jul 14 19:47:20 2025
+[2025/07/14@19:47:20.239-0300] P-20012      T-7320  I DBUTIL   : (451)   prostrct create session begin for pmath on CON:. 
+[2025/07/14@19:47:20.241-0300] P-20012      T-7320  I DBUTIL   : (12862) Structure file c:\treinamento\sports.st used to create database with blocksize 4096. 
+[2025/07/14@19:47:20.248-0300] P-20012      T-7320  I DBUTIL   : (334)   prostrct create session end. 
+[2025/07/14@19:47:20.263-0300] P-20012      T-7320  I DBUTIL   : (451)   procopy session begin for pmath on CON:. 
+[2025/07/14@19:47:20.383-0300] P-20012      T-7320  I DBUTIL   : (334)   procopy session end. 
+
+                Mon Jul 14 19:47:20 2025
+[2025/07/14@19:47:20.399-0300] P-20012      T-7320  I DBUTIL   : (451)   procopy get default SQL DBA session begin for pmath on CON:. 
+[2025/07/14@19:47:20.399-0300] P-20012      T-7320  I DBUTIL   : (15321) Before Image Log Initialization at block 0  offset 0. 
+[2025/07/14@19:47:20.423-0300] P-20012      T-7320  I DBUTIL   : (14867) Procopy -newinstance Created a new database GUID. 
+[2025/07/14@19:47:20.506-0300] P-20012      T-7320  I DBUTIL   : (15109) At Database close the number of live transactions is 0. 
+[2025/07/14@19:47:20.507-0300] P-20012      T-7320  I DBUTIL   : (15743) Before Image Log Completion at Block 0 Offset 3657. 
+[2025/07/14@19:47:20.510-0300] P-20012      T-7320  I DBUTIL   : (334)   procopy get default SQL DBA session end. 
+
+                Mon Jul 14 19:48:42 2025
+[2025/07/14@19:48:42.728-0300] P-16204      T-22268 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/14@19:48:42.731-0300] P-16204      T-22268 I ABL      : (15321) Before Image Log Initialization at block 0  offset 3657. 
+[2025/07/14@19:48:42.760-0300] P-16204      T-22268 I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Tue Jul 15 19:08:38 2025
+[2025/07/15@19:08:38.855-0300] P-18588      T-13924 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/15@19:08:38.856-0300] P-18588      T-13924 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/15@19:08:38.858-0300] P-18588      T-13924 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/15@19:08:38.860-0300] P-18588      T-13924 I ABL      : (7161)  Physical Redo Phase Completed at blk 3 off 6597 upd 184. 
+[2025/07/15@19:08:38.861-0300] P-18588      T-13924 I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/15@19:08:38.941-0300] P-18588      T-13924 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/15@22:13:23.179-0300] P-18588      T-13924 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/15@22:13:23.181-0300] P-18588      T-13924 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 3406. 
+[2025/07/15@22:13:23.187-0300] P-18588      T-13924 I ABL      : (334)   Single-user session end. 
+
+                Wed Jul 16 19:19:12 2025
+[2025/07/16@19:19:12.794-0300] P-14744      T-9596  I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/16@19:19:12.796-0300] P-14744      T-9596  I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/16@19:19:12.796-0300] P-14744      T-9596  I ABL      : (15321) Before Image Log Initialization at block 4  offset 3406. 
+[2025/07/16@19:19:12.850-0300] P-14744      T-9596  I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/16@22:06:34.556-0300] P-14744      T-9596  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/16@22:06:34.561-0300] P-14744      T-9596  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 3458. 
+[2025/07/16@22:06:34.564-0300] P-14744      T-9596  I ABL      : (334)   Single-user session end. 
+
+                Thu Jul 17 19:20:39 2025
+[2025/07/17@19:20:39.112-0300] P-13132      T-2760  I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/17@19:20:39.115-0300] P-13132      T-2760  I ABL      : (15321) Before Image Log Initialization at block 4  offset 3458. 
+[2025/07/17@19:20:39.143-0300] P-13132      T-2760  I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/17@20:01:16.297-0300] P-13132      T-2760  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/17@20:01:16.299-0300] P-13132      T-2760  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 3510. 
+[2025/07/17@20:01:16.301-0300] P-13132      T-2760  I ABL      : (334)   Single-user session end. 
+
+                Thu Jul 17 20:02:02 2025
+[2025/07/17@20:02:02.834-0300] P-21916      T-21920 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/17@20:02:02.837-0300] P-21916      T-21920 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/17@20:02:02.837-0300] P-21916      T-21920 I ABL      : (15321) Before Image Log Initialization at block 4  offset 3510. 
+[2025/07/17@20:02:02.854-0300] P-21916      T-21920 I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Thu Jul 17 20:33:13 2025
+[2025/07/17@20:33:13.640-0300] P-17436      T-5644  I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/17@20:33:13.641-0300] P-17436      T-5644  I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/17@20:33:13.642-0300] P-17436      T-5644  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/17@20:33:13.643-0300] P-17436      T-5644  I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 3510 upd 3. 
+[2025/07/17@20:33:13.644-0300] P-17436      T-5644  I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/17@20:33:13.692-0300] P-17436      T-5644  I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Fri Jul 18 16:26:46 2025
+[2025/07/18@16:26:46.946-0300] P-12852      T-24520 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/18@16:26:46.948-0300] P-12852      T-24520 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/18@16:26:46.949-0300] P-12852      T-24520 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/18@16:26:46.951-0300] P-12852      T-24520 I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 3562 upd 3. 
+[2025/07/18@16:26:46.952-0300] P-12852      T-24520 I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/18@16:26:47.016-0300] P-12852      T-24520 I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Fri Jul 18 19:00:51 2025
+[2025/07/18@19:00:51.214-0300] P-21664      T-21040 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/18@19:00:51.216-0300] P-21664      T-21040 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/18@19:00:51.218-0300] P-21664      T-21040 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/18@19:00:51.221-0300] P-21664      T-21040 I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 3614 upd 3. 
+[2025/07/18@19:00:51.221-0300] P-21664      T-21040 I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/18@19:00:51.296-0300] P-21664      T-21040 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/18@19:30:44.176-0300] P-21664      T-21040 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/18@19:30:44.177-0300] P-21664      T-21040 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 3666. 
+[2025/07/18@19:30:44.180-0300] P-21664      T-21040 I ABL      : (334)   Single-user session end. 
+
+                Fri Jul 18 20:20:46 2025
+[2025/07/18@20:20:46.392-0300] P-10504      T-10720 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/18@20:20:46.393-0300] P-10504      T-10720 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/18@20:20:46.393-0300] P-10504      T-10720 I ABL      : (15321) Before Image Log Initialization at block 4  offset 3666. 
+[2025/07/18@20:20:46.405-0300] P-10504      T-10720 I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Mon Jul 21 09:23:53 2025
+[2025/07/21@09:23:53.761-0300] P-2928       T-1712  I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/21@09:23:53.763-0300] P-2928       T-1712  I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/21@09:23:53.765-0300] P-2928       T-1712  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/21@09:23:53.768-0300] P-2928       T-1712  I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 3718 upd 3. 
+[2025/07/21@09:23:53.768-0300] P-2928       T-1712  I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/21@09:23:53.862-0300] P-2928       T-1712  I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/21@17:52:28.558-0300] P-2928       T-1712  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/21@17:52:28.559-0300] P-2928       T-1712  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 4299. 
+[2025/07/21@17:52:28.563-0300] P-2928       T-1712  I ABL      : (334)   Single-user session end. 
+
+                Mon Jul 21 19:05:37 2025
+[2025/07/21@19:05:37.975-0300] P-25536      T-22024 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/21@19:05:37.977-0300] P-25536      T-22024 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/21@19:05:37.978-0300] P-25536      T-22024 I ABL      : (15321) Before Image Log Initialization at block 4  offset 4299. 
+[2025/07/21@19:05:38.004-0300] P-25536      T-22024 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/21@22:09:29.214-0300] P-25536      T-22024 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/21@22:09:29.216-0300] P-25536      T-22024 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 4351. 
+[2025/07/21@22:09:29.220-0300] P-25536      T-22024 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul 22 10:44:25 2025
+[2025/07/22@10:44:25.972-0300] P-18360      T-23544 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/22@10:44:25.975-0300] P-18360      T-23544 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/22@10:44:25.975-0300] P-18360      T-23544 I ABL      : (15321) Before Image Log Initialization at block 4  offset 4351. 
+[2025/07/22@10:44:26.007-0300] P-18360      T-23544 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/22@10:49:24.295-0300] P-18360      T-23544 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/22@10:49:24.296-0300] P-18360      T-23544 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 4403. 
+[2025/07/22@10:49:24.299-0300] P-18360      T-23544 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul 22 10:49:58 2025
+[2025/07/22@10:49:58.625-0300] P-16144      T-18516 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/22@10:49:58.626-0300] P-16144      T-18516 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/22@10:49:58.626-0300] P-16144      T-18516 I ABL      : (15321) Before Image Log Initialization at block 4  offset 4403. 
+[2025/07/22@10:49:58.637-0300] P-16144      T-18516 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/22@17:55:23.335-0300] P-16144      T-18516 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/22@17:55:23.336-0300] P-16144      T-18516 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 4455. 
+[2025/07/22@17:55:23.346-0300] P-16144      T-18516 I ABL      : (334)   Single-user session end. 
+
+                Tue Jul 22 19:11:28 2025
+[2025/07/22@19:11:28.692-0300] P-12580      T-10652 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/22@19:11:28.700-0300] P-12580      T-10652 I ABL      : (5194)  Event Logger error: Could not find 'PROMSGS.DLL'. 
+[2025/07/22@19:11:28.702-0300] P-12580      T-10652 I ABL      : (15321) Before Image Log Initialization at block 4  offset 4455. 
+[2025/07/22@19:11:28.757-0300] P-12580      T-10652 I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Wed Jul 23 13:06:56 2025
+[2025/07/23@13:06:56.203-0300] P-18544      T-24032 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/23@13:06:56.208-0300] P-18544      T-24032 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/23@13:06:56.212-0300] P-18544      T-24032 I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 4507 upd 3. 
+[2025/07/23@13:06:56.212-0300] P-18544      T-24032 I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/23@13:06:56.276-0300] P-18544      T-24032 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/23@17:51:47.883-0300] P-18544      T-24032 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/23@17:51:47.894-0300] P-18544      T-24032 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 4559. 
+[2025/07/23@17:51:47.903-0300] P-18544      T-24032 I ABL      : (334)   Single-user session end. 
+
+                Wed Jul 23 19:00:44 2025
+[2025/07/23@19:00:44.624-0300] P-6804       T-13764 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/23@19:00:44.627-0300] P-6804       T-13764 I ABL      : (15321) Before Image Log Initialization at block 4  offset 4559. 
+[2025/07/23@19:00:44.686-0300] P-6804       T-13764 I ABL      : (7129)  Usr 0 set name to pmath. 
+
+                Thu Jul 24 11:08:50 2025
+[2025/07/24@11:08:50.968-0300] P-18188      T-24780 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/24@11:08:50.975-0300] P-18188      T-24780 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2025/07/24@11:08:50.978-0300] P-18188      T-24780 I ABL      : (7161)  Physical Redo Phase Completed at blk 4 off 4611 upd 3. 
+[2025/07/24@11:08:50.979-0300] P-18188      T-24780 I ABL      : (13547) At end of Physical redo, transaction table size is 5440. 
+[2025/07/24@11:08:51.040-0300] P-18188      T-24780 I ABL      : (7129)  Usr 0 set name to pmath. 
+[2025/07/24@17:58:17.383-0300] P-18188      T-24780 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2025/07/24@17:58:17.398-0300] P-18188      T-24780 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 5811. 
+[2025/07/24@17:58:17.409-0300] P-18188      T-24780 I ABL      : (334)   Single-user session end. 
