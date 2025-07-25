@@ -154,3 +154,8 @@
 [2025/07/24@17:58:17.383-0300] P-18188      T-24780 I ABL      : (15109) At Database close the number of live transactions is 0. 
 [2025/07/24@17:58:17.398-0300] P-18188      T-24780 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 5811. 
 [2025/07/24@17:58:17.409-0300] P-18188      T-24780 I ABL      : (334)   Single-user session end. 
+
+                Thu Jul 24 19:10:09 2025
+[2025/07/24@19:10:09.359-0300] P-17804      T-13220 I ABL      : (451)   Single-user session begin for pmath on CON:. 
+[2025/07/24@19:10:09.362-0300] P-17804      T-13220 I ABL      : (15321) Before Image Log Initialization at block 4  offset 5811. 
+[2025/07/24@19:10:09.395-0300] P-17804      T-13220 I ABL      : (7129)  Usr 0 set name to pmath. 
